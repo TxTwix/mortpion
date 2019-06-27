@@ -1,0 +1,51 @@
+.box {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+
+	font-family :monospace;
+	font-size: 36px;
+
+	
+}
+
+.morpion {
+	display: flex;
+	flex-wrap: wrap;
+	width: 180px;
+	height: 180px;
+	border: 5px solid #ffa500;
+}
+
+.case {
+	width: 50px;
+	height: 50px;
+	border: 5px solid #ffd700;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color:#e60000;
+}
+.background {
+background-color:#8282ee;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
